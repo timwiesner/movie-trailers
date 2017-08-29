@@ -1,1 +1,4 @@
-# movie-website
+# The Best Movie Trailer Website This Side of the Mississippi
+After submitting this project for Udacity's Intro to Programming Nanodegree, my reviewer showed me how to refactor the code using Jinja2 https://github.com/wqfeng/movie-trailer. 
+
+As such, this submission for Udacity's Full Stack Web Developer Nanodegree will be my original project refactored with Jinda2 and additional feature/style changes.
