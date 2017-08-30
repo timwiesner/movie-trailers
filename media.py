@@ -9,19 +9,21 @@ class Movie():
 		param1 (str): title
 		param2 (str): storyline
 		param3 (str): poster
-		param4 (str): trailer
-		param5 (str): director/s
-		param6 (str): screenwriter/s
-		param7 (str): stars
-		param8 (str): release date
-		param9 (str): IMDB Rating
+		param4 (str): imdb_link
+		param5 (str): trailer
+		param6 (str): director/s
+		param7 (str): screenwriter/s
+		param8 (str): stars
+		param9 (str): release date
+		param10 (str): IMDB Rating
 
 	"""
 
-	def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, directors, screenwriters, stars, release_date, imdb_rating):
+	def __init__(self, movie_title, movie_storyline, poster_image, imdb_link, trailer_youtube, directors, screenwriters, stars, release_date, imdb_rating):
 		self.title = movie_title
 		self.storyline = movie_storyline
 		self.poster_image_url = poster_image
+		self.imdb_link_url = imdb_link
 		self.trailer_youtube_url = trailer_youtube
 		self.directors = directors
 		self.screenwriters = screenwriters
