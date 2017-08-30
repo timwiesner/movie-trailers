@@ -29,15 +29,15 @@ class Movie():
 		self.release_date = release_date
 		self.imdb_rating = imdb_rating
 
-	def show_trailer(self):
-		"""Shows movie trailer
+	# def show_trailer(self):
+	# 	"""Shows movie trailer
 
-		Args:
-			param: self(movie)
-		Behavior:
-			Opens movie trailer in webbrowser
-		Returns:
-			None
+	# 	Args:
+	# 		param: self(movie)
+	# 	Behavior:
+	# 		Opens movie trailer in webbrowser
+	# 	Returns:
+	# 		None
 
-		"""
-		webbrowser.open(self.trailer_youtube_url)
+	# 	"""
+	# 	webbrowser.open(self.trailer_youtube_url)
