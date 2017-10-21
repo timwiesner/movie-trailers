@@ -3,9 +3,10 @@
 ## Movie Trailer Website
 
 ### Project Overview
-After submitting this project for Udacity's Intro to Programming Nanodegree, my reviewer showed me how to refactor the code using Jinja2 https://github.com/wqfeng/movie-trailer.
 
-As such, this submission for Udacity's Full Stack Web Developer Nanodegree will be my original project refactored with Jinja2 and additional feature/style changes.
+
+### Installation Prerequisites
+* Python 3: https://www.python.org/downloads/
 
 
 
@@ -18,3 +19,7 @@ As such, this submission for Udacity's Full Stack Web Developer Nanodegree will 
 5. Enjoy! You can now view my favorite movies and watch their trailers.
 
 No dependencies or additional files are required to run. -->
+
+<!--After submitting this project for Udacity's Intro to Programming Nanodegree, my reviewer showed me how to refactor the code using Jinja2 https://github.com/wqfeng/movie-trailer.
+
+As such, this submission for Udacity's Full Stack Web Developer Nanodegree will be my original project refactored with Jinja2 and additional feature/style changes. -->
