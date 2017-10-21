@@ -1,5 +1,7 @@
 # Udacity Full Stack Web Developer Nanodegree
+
 ## Movie Trailer Website
+
 ### Project Overview
 After submitting this project for Udacity's Intro to Programming Nanodegree, my reviewer showed me how to refactor the code using Jinja2 https://github.com/wqfeng/movie-trailer.
 
